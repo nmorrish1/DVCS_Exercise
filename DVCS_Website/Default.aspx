@@ -33,7 +33,7 @@
                 Requirements for this assignments are filled out in the project Readme
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="https://github.com/nmorrish1/DVCS_Exercise/blob/master/README.md">View Readme &raquo;</a>
             </p>
         </div>
     </div>
