@@ -15,7 +15,7 @@
                 This project is meant for practicing using Github as a method to consolidate code.
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" href="https://github.com/nmorrish1/DVCS_Exercise">See on Github &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
