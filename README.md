@@ -10,7 +10,7 @@
 
 # Short Answer & Multiple Choice
 1)  Repository --> Show in Repository (Ctrl+Shift_F)
-2)  File --> Add local repository (Ctrl+O) ~and~ File --> Clone repository (Ctrl+Shift+O)
+2)  File --> Add local repository (Ctrl+O) and File --> Clone repository (Ctrl+Shift+O)
 3)  Repository --> Open in command prompt (Ctrl+`)
 4)  Changes (Ctrl+1), History (Ctrl + 2), Repository List (Ctrl+T), Branches List (Ctrl+B)
 5)  Primary remote repository URL and Ignored files
